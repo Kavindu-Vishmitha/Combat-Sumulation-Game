@@ -1,3 +1,5 @@
+package Combat;
+
 // Abstract Gun class to prevent direct instantiation
 abstract class Gun {
 
